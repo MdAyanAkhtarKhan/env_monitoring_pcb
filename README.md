@@ -10,7 +10,7 @@ Unlike basic designs, this system includes a **custom-built analog signal proces
 
 ## 📷 Project Preview
 
-![PCB Design](pcb_env_system_final.jpg)
+![PCB Design](pcb_env_system_final.png)
 
 ---
 
