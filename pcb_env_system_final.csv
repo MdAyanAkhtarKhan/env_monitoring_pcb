@@ -1,0 +1,13 @@
+Reference	Qty	Value	DNP	Exclude from BOM	Exclude from Board	Footprint	Datasheet
+C1,C2	2	100n				Capacitor_THT:C_Disc_D5.1mm_W3.2mm_P5.00mm	~
+D1	1	LED				LED_THT:LED_D5.0mm	~
+DS2	1	WC1602A				Display:WC1602A	http://www.wincomlcd.com/pdf/WC1602A-SFYLYHTC06.pdf
+J1	1	5V				ENVIORNMENT_PCB_FINAL:CUI_PJ-102A	
+R1	1	R				Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal	~
+R2	1	2.2K				Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal	~
+R3,R4	2	10k				Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P10.16mm_Horizontal	~
+RV1,RV2	2	R_Potentiometer_US				Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical	~
+SENS-1	1	DHT11				ENVIORNMENT_PCB_FINAL:SENSOR-DHT11	
+U1	1	ESP32-DEVKIT-V1				ENVIORNMENT_PCB_FINAL:MODULE_ESP32_DEVKIT_V1	
+U2	1	MQ-6				Sensor:MQ-6	
+U3	1	LM393				Package_DIP:DIP-8_W7.62mm	http://www.ti.com/lit/ds/symlink/lm393.pdf
